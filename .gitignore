@@ -1,2 +1,4 @@
 _githistory.json
 .DS_Store
+yarn.lock
+node_modules/.yarn-integrity
